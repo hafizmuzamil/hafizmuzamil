@@ -1,4 +1,23 @@
-## Hi there 👋
+# Moin! I'm [Your Name] 👋
+
+I am an aspiring **Fachinformatiker für Systemintegration** currently based in [Your Location]. I am passionate about building secure IT infrastructures and automating systems.
+
+### 🛠️ Technical Focus
+- **Languages:** Python (Automation & Scripting), Bash (Linux Administration)
+- **Systems:** Linux (Debian/Ubuntu), Windows Server
+- **Networking:** TCP/IP, SSH, Firewall Configuration (UFW)
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Projects
+- **[Network Security Scanner](link-to-your-repo):** A Python tool for identifying open ports and active services.
+- **[Linux Server Hardening](link-to-your-repo):** A Bash script to automate security protocols on fresh Linux installs.
+
+### 🇩🇪 My Goal
+I am currently learning German (Level B1) and preparing for an **Ausbildung in Germany** starting in 2025/2026. I want to apply my technical skills to help a German company build reliable and secure systems.
+
+---
+📫 **How to reach me:** hafizmuzamilzulfqar456@gmail.com
+
 
 <!--
 **hafizmuzamil/hafizmuzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
