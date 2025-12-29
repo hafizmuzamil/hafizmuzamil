@@ -1,4 +1,4 @@
-# Moin! I'm [Your Name] 👋
+# Moin! I'm Hafiz Muhammad Muzamil 👋
 
 I am an aspiring **Fachinformatiker für Systemintegration** currently based in [Your Location]. I am passionate about building secure IT infrastructures and automating systems.
 
@@ -9,7 +9,7 @@ I am an aspiring **Fachinformatiker für Systemintegration** currently based in 
 - **Tools:** Git, GitHub, VS Code
 
 ### 🚀 Projects
-- **[Network Security Scanner](link-to-):** A Python tool for identifying open ports and active services.
+- **[Network Security Scanner](https://github.com/hafizmuzamil/Network-Security-Scanner):** A Python tool for identifying open ports and active services.
 - **[Linux Server Hardening](https://github.com/hafizmuzamil/Linux-Server-Hardening):** A Bash script to automate security protocols on fresh Linux installs.
 
 ### 🇩🇪 My Goal
