@@ -9,8 +9,8 @@ I am an aspiring **Fachinformatiker für Systemintegration** currently based in 
 - **Tools:** Git, GitHub, VS Code
 
 ### 🚀 Projects
-- **[Network Security Scanner](link-to-your-repo):** A Python tool for identifying open ports and active services.
-- **[Linux Server Hardening](link-to-your-repo):** A Bash script to automate security protocols on fresh Linux installs.
+- **[Network Security Scanner](link-to-):** A Python tool for identifying open ports and active services.
+- **[Linux Server Hardening](https://github.com/hafizmuzamil/Linux-Server-Hardening):** A Bash script to automate security protocols on fresh Linux installs.
 
 ### 🇩🇪 My Goal
 I am currently learning German (Level B1) and preparing for an **Ausbildung in Germany** starting in 2025/2026. I want to apply my technical skills to help a German company build reliable and secure systems.
