@@ -1,6 +1,6 @@
 # Moin! I'm Hafiz Muhammad Muzamil 👋
 
-I am an aspiring **Fachinformatiker für Systemintegration** currently based in [Your Location]. I am passionate about building secure IT infrastructures and automating systems.
+I am an aspiring **Informationselektroniker** currently based in Pakistan. I am passionate about building secure IT infrastructures and automating systems.
 
 ### 🛠️ Technical Focus
 - **Languages:** Python (Automation & Scripting), Bash (Linux Administration)
