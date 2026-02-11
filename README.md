@@ -1,6 +1,6 @@
 # Moin! I'm Hafiz Muhammad Muzamil 👋
 
-I am an aspiring **Informationselektroniker** currently based in Pakistan. I am passionate about building secure IT infrastructures and automating systems.
+I am an aspiring **Elektroniker** currently based in Pakistan. I am passionate about building secure IT infrastructures and automating systems.
 
 ### 🛠️ Technical Focus
 - **Languages:** Python (Automation & Scripting), Bash (Linux Administration)
@@ -13,7 +13,7 @@ I am an aspiring **Informationselektroniker** currently based in Pakistan. I am 
 - **[Linux Server Hardening](https://github.com/hafizmuzamil/Linux-Server-Hardening):** A Bash script to automate security protocols on fresh Linux installs.
 
 ### 🇩🇪 My Goal
-I am currently learning German (Level B1) and preparing for an **Ausbildung in Germany** starting in 2025/2026. I want to apply my technical skills to help a German company build reliable and secure systems.
+I am currently learning German (Level B2) and preparing for an **Ausbildung in Germany** starting in 2025/2026. I want to apply my technical skills to help a German company build reliable and secure systems.
 
 ---
 📫 **How to reach me:** hafizmuzamilzulfqar456@gmail.com
