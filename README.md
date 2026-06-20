@@ -1,35 +1,18 @@
-# Moin! I'm Hafiz Muhammad Muzamil 👋
+# Hello! I'm Hafiz Muhammad Muzamil 👋
 
-I am an aspiring **Elektroniker** currently based in Pakistan. I am passionate about building secure IT infrastructures and automating systems.
+I am a tech-driven IT Support and Technical Communications professional dedicated to delivering clear, customer-focused technical support and systematic troubleshooting.
 
 ### 🛠️ Technical Focus
-- **Languages:** Python (Automation & Scripting), Bash (Linux Administration)
-- **Systems:** Linux (Debian/Ubuntu), Windows Server
-- **Networking:** TCP/IP, SSH, Firewall Configuration (UFW)
-- **Tools:** Git, GitHub, VS Code
+* **Languages:** Python, Java, C++
+* **Systems:** Windows, Linux
+* **Networking:** Basic IT Networking & Protocols (TCP/IP)
+* **Core Skills:** System Diagnostics, First-Line Helpdesk Support, Technical Customer Relations
 
-### 🚀 Projects
-- **[Network Security Scanner](https://github.com/hafizmuzamil/Network-Security-Scanner):** A Python tool for identifying open ports and active services.
-- **[Linux Server Hardening](https://github.com/hafizmuzamil/Linux-Server-Hardening):** A Bash script to automate security protocols on fresh Linux installs.
+### 💼 Professional Experience
+* **IT Hardware & Technical Support Associate** at Altaf Mobile 
+  * Diagnosing system faults and handling device hardware troubleshooting.
+  * Translating complex technical issues into clear communication for clients.
 
-### 🇩🇪 My Goal
-I am currently learning German (Level B2) and preparing for an **Ausbildung in Germany** starting in 2026. I want to apply my technical skills to help a German company build reliable and secure systems.
-
----
-📫 **How to reach me:** hafizmuzamilzulfqar456@gmail.com
-
-
-<!--
-**hafizmuzamil/hafizmuzamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/muzamil-zulfiqar](https://linkedin.com/in/muzamil-zulfiqar)
+* **Email:** hafiz.muhamad.muzamil@gmail.com
